@@ -1,0 +1,8 @@
+@font-face {
+    font-family: MolsaghArabic;
+}
+.bg-white{
+    background: linear-gradient(180deg, #fff, #fafafa);
+    border: 1px solid #000;
+    border-radius: 5px;
+}
